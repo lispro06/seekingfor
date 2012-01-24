@@ -1,0 +1,414 @@
+// !$*UTF8*$!
+{
+	0E649B5D137AAE3000451518 /* ChurchInfo3ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 423}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{0, 343}";
+		};
+	};
+	0E649B5E137AAE3000451518 /* ChurchInfo3ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 945}}";
+			sepNavSelRange = "{972, 0}";
+			sepNavVisRange = "{254, 953}";
+		};
+	};
+	0E649B60137AAE4400451518 /* FindPathViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 423}}";
+			sepNavSelRange = "{256, 0}";
+			sepNavVisRange = "{0, 333}";
+		};
+	};
+	0E649B61137AAE4400451518 /* FindPathViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 915}}";
+			sepNavSelRange = "{959, 0}";
+			sepNavVisRange = "{614, 689}";
+			sepNavWindowFrame = "{{61, 37}, {1112, 694}}";
+		};
+	};
+	0E649B63137AAE5300451518 /* ChurchInfo2ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 448}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{0, 343}";
+		};
+	};
+	0E649B64137AAE5300451518 /* ChurchInfo2ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 945}}";
+			sepNavSelRange = "{971, 0}";
+			sepNavVisRange = "{254, 952}";
+		};
+	};
+	0E649B66137AAE6600451518 /* ChurchInfoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 400}}";
+			sepNavSelRange = "{335, 0}";
+			sepNavVisRange = "{0, 341}";
+		};
+	};
+	0E649B67137AAE6600451518 /* ChurchInfoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 945}}";
+			sepNavSelRange = "{638, 0}";
+			sepNavVisRange = "{620, 749}";
+		};
+	};
+	0E649B7A137AAFD600451518 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E649B63137AAE5300451518 /* ChurchInfo2ViewController.h */;
+		name = "ChurchInfo2ViewController.h: 17";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 0;
+	};
+	0E649BAD137AB13F00451518 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ChurchAppDelegate.m */;
+		name = "ChurchAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 503;
+		rType = 0;
+		vrLen = 1290;
+		vrLoc = 546;
+	};
+	0E649BB3137AB13F00451518 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E649B64137AAE5300451518 /* ChurchInfo2ViewController.m */;
+		name = "ChurchInfo2ViewController.m: 35";
+		rLen = 0;
+		rLoc = 971;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 254;
+	};
+	0EBDCD0E137AA89300D0144E /* IntroViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 400}}";
+			sepNavSelRange = "{155, 0}";
+			sepNavVisRange = "{0, 325}";
+			sepNavWindowFrame = "{{38, 58}, {1112, 694}}";
+		};
+	};
+	0EBDCD0F137AA89300D0144E /* IntroViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 1065}}";
+			sepNavSelRange = "{1029, 8}";
+			sepNavVisRange = "{743, 775}";
+			sepNavWindowFrame = "{{15, 79}, {1112, 694}}";
+		};
+	};
+	0EBDCD1D137AA9A200D0144E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	0EBDCD1E137AA9A200D0144E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Church_Prefix.pch */;
+		name = "Church_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	0EBF43EB1379B58800328865 /* Church */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Church;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0EBF44001379B59700328865 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0EBF44011379B59700328865 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0EC0D2C4137D9916002298AA /* info1.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 58}, {1112, 694}}";
+		};
+	};
+	0EC0D316137D9EFA002298AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0EBDCD03137AA7C900D0144E /* frame.png */;
+	};
+	0EC0D317137D9EFA002298AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0EBDCD04137AA7C900D0144E /* group.png */;
+	};
+	0EC0D318137D9EFA002298AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0EBDCD05137AA7C900D0144E /* intro.png */;
+	};
+	0EC0D319137D9EFA002298AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0EBDCD06137AA7C900D0144E /* photos.png */;
+	};
+	0EC0D31A137D9EFA002298AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0EBDCCF2137AA5FA00D0144E /* church.png */;
+	};
+	0EC0D31B137D9EFA002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E649B5E137AAE3000451518 /* ChurchInfo3ViewController.m */;
+		name = "ChurchInfo3ViewController.m: 35";
+		rLen = 0;
+		rLoc = 972;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 254;
+	};
+	0EC0D31C137D9EFA002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E649B61137AAE4400451518 /* FindPathViewController.m */;
+		name = "FindPathViewController.m: 35";
+		rLen = 0;
+		rLoc = 959;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 614;
+	};
+	0EC0D31D137D9EFA002298AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0EC0D2C5137D9916002298AA /* info2.jpg */;
+	};
+	0EC0D31E137D9EFA002298AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0EC0D2C7137D9916002298AA /* vision.jpg */;
+	};
+	0EC0D31F137D9EFA002298AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0EC0D2C6137D9916002298AA /* pastor.jpg */;
+	};
+	0EC0D320137D9EFA002298AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0EBDCD07137AA7C900D0144E /* search.png */;
+	};
+	0EC0D321137D9EFA002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E649B60137AAE4400451518 /* FindPathViewController.h */;
+		name = "FindPathViewController.h: 14";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	0EC0D322137D9EFB002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E649B5D137AAE3000451518 /* ChurchInfo3ViewController.h */;
+		name = "ChurchInfo3ViewController.h: 18";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 0;
+	};
+	0EC0D323137D9EFB002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E649B67137AAE6600451518 /* ChurchInfoViewController.m */;
+		name = "ChurchInfoViewController.m: 21";
+		rLen = 0;
+		rLoc = 638;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 620;
+	};
+	0EC0D324137D9EFB002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ChurchAppDelegate.h */;
+		name = "ChurchAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 38;
+	};
+	0EC0D325137D9EFB002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E649B66137AAE6600451518 /* ChurchInfoViewController.h */;
+		name = "ChurchInfoViewController.h: 17";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 0;
+	};
+	0EC0D326137D9EFB002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0EBDCD0E137AA89300D0144E /* IntroViewController.h */;
+		name = "IntroViewController.h: 10";
+		rLen = 0;
+		rLoc = 155;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	0EC0D327137D9EFB002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0EBDCD0F137AA89300D0144E /* IntroViewController.m */;
+		name = "IntroViewController.m: 36";
+		rLen = 0;
+		rLoc = 890;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 0;
+	};
+	0EC0D328137D9EFB002298AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0EBDCD0F137AA89300D0144E /* IntroViewController.m */;
+		name = "IntroViewController.m: 42";
+		rLen = 8;
+		rLoc = 1029;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 743;
+	};
+	1D3623240D0F684500981E51 /* ChurchAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 540}}";
+			sepNavSelRange = "{153, 0}";
+			sepNavVisRange = "{38, 924}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ChurchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 3090}}";
+			sepNavSelRange = "{503, 0}";
+			sepNavVisRange = "{546, 1290}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Church */ = {
+		activeExec = 0;
+		executables = (
+			0EBF43EB1379B58800328865 /* Church */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0EBF43EB1379B58800328865 /* Church */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Church */;
+		addToTargets = (
+		);
+		codeSenseManager = 0EBF44011379B59700328865 /* Code sense */;
+		executables = (
+			0EBF43EB1379B58800328865 /* Church */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326996849;
+			PBXWorkspaceStateSaveDate = 326996849;
+		};
+		perUserProjectItems = {
+			0E649B7A137AAFD600451518 /* PBXTextBookmark */ = 0E649B7A137AAFD600451518 /* PBXTextBookmark */;
+			0E649BAD137AB13F00451518 /* PBXTextBookmark */ = 0E649BAD137AB13F00451518 /* PBXTextBookmark */;
+			0E649BB3137AB13F00451518 /* PBXTextBookmark */ = 0E649BB3137AB13F00451518 /* PBXTextBookmark */;
+			0EBDCD1D137AA9A200D0144E /* PBXTextBookmark */ = 0EBDCD1D137AA9A200D0144E /* PBXTextBookmark */;
+			0EBDCD1E137AA9A200D0144E /* PBXTextBookmark */ = 0EBDCD1E137AA9A200D0144E /* PBXTextBookmark */;
+			0EC0D316137D9EFA002298AA /* PBXBookmark */ = 0EC0D316137D9EFA002298AA /* PBXBookmark */;
+			0EC0D317137D9EFA002298AA /* PBXBookmark */ = 0EC0D317137D9EFA002298AA /* PBXBookmark */;
+			0EC0D318137D9EFA002298AA /* PBXBookmark */ = 0EC0D318137D9EFA002298AA /* PBXBookmark */;
+			0EC0D319137D9EFA002298AA /* PBXBookmark */ = 0EC0D319137D9EFA002298AA /* PBXBookmark */;
+			0EC0D31A137D9EFA002298AA /* PBXBookmark */ = 0EC0D31A137D9EFA002298AA /* PBXBookmark */;
+			0EC0D31B137D9EFA002298AA /* PBXTextBookmark */ = 0EC0D31B137D9EFA002298AA /* PBXTextBookmark */;
+			0EC0D31C137D9EFA002298AA /* PBXTextBookmark */ = 0EC0D31C137D9EFA002298AA /* PBXTextBookmark */;
+			0EC0D31D137D9EFA002298AA /* PBXBookmark */ = 0EC0D31D137D9EFA002298AA /* PBXBookmark */;
+			0EC0D31E137D9EFA002298AA /* PBXBookmark */ = 0EC0D31E137D9EFA002298AA /* PBXBookmark */;
+			0EC0D31F137D9EFA002298AA /* PBXBookmark */ = 0EC0D31F137D9EFA002298AA /* PBXBookmark */;
+			0EC0D320137D9EFA002298AA /* PBXBookmark */ = 0EC0D320137D9EFA002298AA /* PBXBookmark */;
+			0EC0D321137D9EFA002298AA /* PBXTextBookmark */ = 0EC0D321137D9EFA002298AA /* PBXTextBookmark */;
+			0EC0D322137D9EFB002298AA /* PBXTextBookmark */ = 0EC0D322137D9EFB002298AA /* PBXTextBookmark */;
+			0EC0D323137D9EFB002298AA /* PBXTextBookmark */ = 0EC0D323137D9EFB002298AA /* PBXTextBookmark */;
+			0EC0D324137D9EFB002298AA /* PBXTextBookmark */ = 0EC0D324137D9EFB002298AA /* PBXTextBookmark */;
+			0EC0D325137D9EFB002298AA /* PBXTextBookmark */ = 0EC0D325137D9EFB002298AA /* PBXTextBookmark */;
+			0EC0D326137D9EFB002298AA /* PBXTextBookmark */ = 0EC0D326137D9EFB002298AA /* PBXTextBookmark */;
+			0EC0D327137D9EFB002298AA /* PBXTextBookmark */ = 0EC0D327137D9EFB002298AA /* PBXTextBookmark */;
+			0EC0D328137D9EFB002298AA /* PBXTextBookmark */ = 0EC0D328137D9EFB002298AA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0EBF44001379B59700328865 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 454}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Church_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 454}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Church-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{222, 20}, {1112, 694}}";
+		};
+	};
+}

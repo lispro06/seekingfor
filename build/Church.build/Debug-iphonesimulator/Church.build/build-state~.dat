@@ -1,0 +1,378 @@
+TChurch
+v7
+r0
+t326805049.415387
+cCheck dependencies
+cProcessInfoPlistFile /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Info.plist Church-Info.plist
+cCompileXIB /Users/kanghan/workspace/Church/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Church.app/church.png church.png
+cCpResource build/Debug-iphonesimulator/Church.app/Cross.png Cross.png
+cCpResource build/Debug-iphonesimulator/Church.app/info1.jpg info1.jpg
+cCpResource build/Debug-iphonesimulator/Church.app/info2.jpg info2.jpg
+cCpResource build/Debug-iphonesimulator/Church.app/info3.jpg info3.jpg
+cCpResource build/Debug-iphonesimulator/Church.app/pastor.jpg pastor.jpg
+cCpResource build/Debug-iphonesimulator/Church.app/searchPath.jpg searchPath.jpg
+cProcessPCH /var/folders/cM/cMZLbWWUHyKc124pAgDpxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Church_Prefix-clzkixmgceejqgheygacxwgfnodk/Church_Prefix.pch.gch Church_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church.momd /Users/kanghan/workspace/Church/Church.xcdatamodeld
+cCompileC build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/main.o /Users/kanghan/workspace/Church/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/ChurchAppDelegate.o /Users/kanghan/workspace/Church/Classes/ChurchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church normal i386
+cGenerateDSYMFile /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app.dSYM /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church
+cTouch /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/kanghan/workspace/Church/Church.xcdatamodeld
+c000000004DC97E080000000000000088
+t1305050632
+s136
+
+N/Users/kanghan/workspace/Church/Church_Prefix.pch
+c000000004DC97E080000000000000160
+t1305050632
+s352
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/kanghan/workspace/Church/Classes/ChurchAppDelegate.h
+c000000004DC97E1D00000000000003BF
+t1305050653
+s959
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/kanghan/workspace/Church/Classes/ChurchAppDelegate.m
+c000000004DC97E080000000000001DC8
+t1305050632
+s7624
+i"ChurchAppDelegate.h"
+
+N/Users/kanghan/workspace/Church/Cross.png
+c000000004DCA6DCE0000000000000726
+t1305112014
+s1830
+
+N/Users/kanghan/workspace/Church/MainWindow.xib
+c000000004DCA6E510000000000006CBF
+t1305112145
+s27839
+
+N/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/Church.LinkFileList
+c000000004DCA6EB700000000000000EF
+t1305112247
+s239
+
+N/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/ChurchAppDelegate.o
+t1305112249
+s60932
+
+N/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/main.o
+t1305112248
+s6288
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app
+t1305112249
+s476
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app.dSYM
+t1305112249
+s102
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church
+t1305112249
+s17328
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church.momd
+t1305112248
+s136
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Cross.png
+t1305112247
+s1830
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Info.plist
+t1305112247
+s623
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/MainWindow.nib
+t1305112247
+s1771
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/PkgInfo
+t1305112247
+s8
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/church.png
+t1305112247
+s3654
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/info1.jpg
+t1305112247
+s157926
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/info2.jpg
+t1305112247
+s156094
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/info3.jpg
+t1305112247
+s126586
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/pastor.jpg
+t1305112247
+s170474
+
+N/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/searchPath.jpg
+t1305112247
+s70618
+
+N/Users/kanghan/workspace/Church/church.png
+c000000004DCA6B6C0000000000000E46
+t1305111404
+s3654
+
+N/Users/kanghan/workspace/Church/info1.jpg
+c000000004DCA6B9E00000000000268E6
+t1305111454
+s157926
+
+N/Users/kanghan/workspace/Church/info2.jpg
+c000000004DCA6BA400000000000261BE
+t1305111460
+s156094
+
+N/Users/kanghan/workspace/Church/info3.jpg
+c000000004DCA6BB4000000000001EE7A
+t1305111476
+s126586
+
+N/Users/kanghan/workspace/Church/main.m
+c000000004DC97E080000000000000159
+t1305050632
+s345
+i<UIKit/UIKit.h>
+
+N/Users/kanghan/workspace/Church/pastor.jpg
+c000000004DCA6BAC00000000000299EA
+t1305111468
+s170474
+
+N/Users/kanghan/workspace/Church/searchPath.jpg
+c000000004DCA6BB800000000000113DA
+t1305111480
+s70618
+
+N/var/folders/cM/cMZLbWWUHyKc124pAgDpxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Church_Prefix-clzkixmgceejqgheygacxwgfnodk/Church_Prefix.pch.gch
+t1305112248
+s16326640
+
+NChurch-Info.plist
+c000000004DCA6EB50000000000000397
+t1305112245
+s919
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326805047#326805047#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/ChurchAppDelegate.o /Users/kanghan/workspace/Church/Classes/ChurchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326805048.968739
+e326805049.047693
+r1
+xCompileC
+xbuild/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/ChurchAppDelegate.o
+x/Users/kanghan/workspace/Church/Classes/ChurchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/kanghan/workspace/Church/Classes/ChurchAppDelegate.m326805048#326805049#0(0"0(0#0#59"/Users/kanghan/workspace/Church/Classes/ChurchAppDelegate.m8606765280#1851"    cd /Users/kanghan/workspace/Church    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-generated-files.hmap -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-own-target-headers.hmap -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-all-target-headers.hmap -iquote /Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-project-headers.hmap -F/Users/kanghan/workspace/Church/build/Debug-iphonesimulator -I/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/include -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/DerivedSources/i386 -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/DerivedSources -include /var/folders/cM/cMZLbWWUHyKc124pAgDpxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Church_Prefix-clzkixmgceejqgheygacxwgfnodk/Church_Prefix.pch -c /Users/kanghan/workspace/Church/Classes/ChurchAppDelegate.m -o /Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/ChurchAppDelegate.o0#
+
+CCompileC build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/main.o /Users/kanghan/workspace/Church/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326805048.839936
+e326805048.986735
+r1
+xCompileC
+xbuild/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/main.o
+x/Users/kanghan/workspace/Church/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/kanghan/workspace/Church/main.m326805048#326805048#0(0"0(0#0#38"/Users/kanghan/workspace/Church/main.m8606895168#1817"    cd /Users/kanghan/workspace/Church    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-generated-files.hmap -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-own-target-headers.hmap -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-all-target-headers.hmap -iquote /Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-project-headers.hmap -F/Users/kanghan/workspace/Church/build/Debug-iphonesimulator -I/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/include -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/DerivedSources/i386 -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/DerivedSources -include /var/folders/cM/cMZLbWWUHyKc124pAgDpxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Church_Prefix-clzkixmgceejqgheygacxwgfnodk/Church_Prefix.pch -c /Users/kanghan/workspace/Church/main.m -o /Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kanghan/workspace/Church/MainWindow.xib
+s326805047.247828
+e326805047.737661
+r1
+xCompileXIB
+x/Users/kanghan/workspace/Church/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib326805047#326805047#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#46"/Users/kanghan/workspace/Church/MainWindow.xib8606964384#548"    cd /Users/kanghan/workspace/Church    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/MainWindow.nib /Users/kanghan/workspace/Church/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Church.app/Cross.png Cross.png
+s326805047.270689
+e326805047.321373
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Church.app/Cross.png
+xCross.png
+lSLF07#2@14"Copy Cross.png326805047#326805047#0(0"0(0#0#41"/Users/kanghan/workspace/Church/Cross.png8606869760#445"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kanghan/workspace/Church/Cross.png /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app0#
+
+CCpResource build/Debug-iphonesimulator/Church.app/church.png church.png
+s326805047.269127
+e326805047.320999
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Church.app/church.png
+xchurch.png
+lSLF07#2@15"Copy church.png326805047#326805047#0(0"0(0#0#42"/Users/kanghan/workspace/Church/church.png8606168480#446"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kanghan/workspace/Church/church.png /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app0#
+
+CCpResource build/Debug-iphonesimulator/Church.app/info1.jpg info1.jpg
+s326805047.272511
+e326805047.326196
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Church.app/info1.jpg
+xinfo1.jpg
+lSLF07#2@14"Copy info1.jpg326805047#326805047#0(0"0(0#0#41"/Users/kanghan/workspace/Church/info1.jpg8606690048#445"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kanghan/workspace/Church/info1.jpg /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app0#
+
+CCpResource build/Debug-iphonesimulator/Church.app/info2.jpg info2.jpg
+s326805047.274279
+e326805047.326382
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Church.app/info2.jpg
+xinfo2.jpg
+lSLF07#2@14"Copy info2.jpg326805047#326805047#0(0"0(0#0#41"/Users/kanghan/workspace/Church/info2.jpg8607051488#445"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kanghan/workspace/Church/info2.jpg /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app0#
+
+CCpResource build/Debug-iphonesimulator/Church.app/info3.jpg info3.jpg
+s326805047.276428
+e326805047.322613
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Church.app/info3.jpg
+xinfo3.jpg
+lSLF07#2@14"Copy info3.jpg326805047#326805047#0(0"0(0#0#41"/Users/kanghan/workspace/Church/info3.jpg8606630400#445"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kanghan/workspace/Church/info3.jpg /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app0#
+
+CCpResource build/Debug-iphonesimulator/Church.app/pastor.jpg pastor.jpg
+s326805047.283000
+e326805047.333586
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Church.app/pastor.jpg
+xpastor.jpg
+lSLF07#2@15"Copy pastor.jpg326805047#326805047#0(0"0(0#0#42"/Users/kanghan/workspace/Church/pastor.jpg8607208000#446"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kanghan/workspace/Church/pastor.jpg /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app0#
+
+CCpResource build/Debug-iphonesimulator/Church.app/searchPath.jpg searchPath.jpg
+s326805047.284764
+e326805047.321887
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Church.app/searchPath.jpg
+xsearchPath.jpg
+lSLF07#2@19"Copy searchPath.jpg326805047#326805047#0(0"0(0#0#46"/Users/kanghan/workspace/Church/searchPath.jpg8606996832#450"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kanghan/workspace/Church/searchPath.jpg /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app0#
+
+CDataModelVersionCompile /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church.momd /Users/kanghan/workspace/Church/Church.xcdatamodeld
+s326805048.838649
+e326805048.968642
+r1
+xDataModelVersionCompile
+x/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church.momd
+x/Users/kanghan/workspace/Church/Church.xcdatamodeld
+lSLF07#2@94"DataModelVersionCompile build/Debug-iphonesimulator/Church.app/Church.momd Church.xcdatamodeld326805048#326805048#0(0"0(0#0#51"/Users/kanghan/workspace/Church/Church.xcdatamodeld8602953280#362"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/kanghan/workspace/Church/Church.xcdatamodeld /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church.momd0#
+
+CGenerateDSYMFile /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app.dSYM /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church
+s326805049.354131
+e326805049.412265
+r1
+xGenerateDSYMFile
+x/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app.dSYM
+x/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Church.app.dSYM build/Debug-iphonesimulator/Church.app/Church326805049#326805049#0(0"0(0#0#77"/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church8605783744#359"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church -o /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app.dSYM0#
+
+CLd /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church normal i386
+s326805049.047790
+e326805049.354038
+r1
+xLd
+x/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church
+xnormal
+xi386
+lSLF07#2@82"Link /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church326805049#326805049#0(0"0(0#0#0"8606363552#880"    cd /Users/kanghan/workspace/Church    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/kanghan/workspace/Church/build/Debug-iphonesimulator -F/Users/kanghan/workspace/Church/build/Debug-iphonesimulator -filelist /Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Objects-normal/i386/Church.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Church0#
+
+CProcessInfoPlistFile /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Info.plist Church-Info.plist
+s326805047.198034
+e326805047.247528
+r1
+xProcessInfoPlistFile
+x/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Info.plist
+xChurch-Info.plist
+lSLF07#2@25"Process Church-Info.plist326805047#326805047#0(0"0(0#0#49"/Users/kanghan/workspace/Church/Church-Info.plist30399800003068008#455"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Church-Info.plist -genpkginfo /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app/Info.plist0#
+
+CProcessPCH /var/folders/cM/cMZLbWWUHyKc124pAgDpxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Church_Prefix-clzkixmgceejqgheygacxwgfnodk/Church_Prefix.pch.gch Church_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326805047.737871
+e326805048.838300
+r1
+xProcessPCH
+x/var/folders/cM/cMZLbWWUHyKc124pAgDpxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Church_Prefix-clzkixmgceejqgheygacxwgfnodk/Church_Prefix.pch.gch
+xChurch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Church_Prefix.pch326805047#326805048#0(0"0(0#0#49"/Users/kanghan/workspace/Church/Church_Prefix.pch8607122784#1717"    cd /Users/kanghan/workspace/Church    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-generated-files.hmap -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-own-target-headers.hmap -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-all-target-headers.hmap -iquote /Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/Church-project-headers.hmap -F/Users/kanghan/workspace/Church/build/Debug-iphonesimulator -I/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/include -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/DerivedSources/i386 -I/Users/kanghan/workspace/Church/build/Church.build/Debug-iphonesimulator/Church.build/DerivedSources -c /Users/kanghan/workspace/Church/Church_Prefix.pch -o /var/folders/cM/cMZLbWWUHyKc124pAgDpxk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Church_Prefix-clzkixmgceejqgheygacxwgfnodk/Church_Prefix.pch.gch0#
+
+CTouch /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app
+s326805049.412349
+e326805049.415341
+r1
+xTouch
+x/Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app
+lSLF07#2@76"Touch /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app326805049#326805049#0(0"0(0#0#0"8604539264#263"    cd /Users/kanghan/workspace/Church    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kanghan/workspace/Church/build/Debug-iphonesimulator/Church.app0#
+
